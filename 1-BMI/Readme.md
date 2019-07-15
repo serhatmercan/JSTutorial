@@ -1,6 +1,7 @@
 Challenge-1 : BMI
 
-Mark & John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: 
+Mark & John are trying to compare their BMI (Body Mass Index), which is calculated using the formula:
+
 BMI = mass / height ^ 2 = mass / ( height * height ). (Mass in kg and Height in meter).
 
 1. Store Mark's & John's mass and height in variables
