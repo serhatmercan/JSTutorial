@@ -4,7 +4,7 @@ var massMark = 65,
     heightJohn = 1.85;
 
 var bmiMark = massMark / (heightMark * heightMark),
-	bmiJohn = massJohn / (heightJohn * heightJohn);
+    bmiJohn = massJohn / (heightJohn * heightJohn);
 
 if (bmiMark > bmiJohn) {
 	this.console.log("Mark's BMI higher than John's");
