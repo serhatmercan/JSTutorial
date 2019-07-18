@@ -1,4 +1,4 @@
-Challenge-2 : Basketball Score
+Basketball Score
 
 John & Mark both play basketball in different teams.
 
