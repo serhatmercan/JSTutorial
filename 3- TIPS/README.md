@@ -1,4 +1,4 @@
-Challenge-3 : TIPS
+TIPS
 
 John and his family went on a holiday and went to 3 different restaurants. 
 
