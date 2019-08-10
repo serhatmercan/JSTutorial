@@ -22,7 +22,9 @@ Implement a tip calculator using objects and loops:
 EXTRA AFTER FINISHING:
 
 5. Create a function (not a method) to calculate the average of a given array of tips.
+   
    HINT: Loop over the array, and in each iteration store the current sum in a variable (starting from 8).
+   
    After you have the sum of the array, divide it by the number of elements in it (that's how you calculate the average)
 6. Calculate the average of John's Family Tips
 7. Log to the console the average of John's Tips
